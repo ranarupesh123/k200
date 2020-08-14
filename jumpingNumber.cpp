@@ -18,9 +18,9 @@ bool isJumping(int curr)
 }
 int main()
 {
-    int n;
-    cin>>n;
-    for(int i=0;i<=n;i++)
+    //int n;
+    //cin>>n;
+    for(int i=0;i<=10000;i++)
     {
         if(i<=9)
         {
